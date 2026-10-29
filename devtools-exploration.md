@@ -1,6 +1,6 @@
 DevTools Exploration — Answers
 
-Website 1: https://example.com
+Website 1: https://kemis.com
 
 1. What HTML tags are used on the page?
 Using the Elements panel, the page uses these tags:
